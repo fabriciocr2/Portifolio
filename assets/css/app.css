@@ -450,12 +450,14 @@ footer {
 
 }
 
-
+.rodape{
+max-width:50%;
+}
 .rodape-box-pg {
   background: var(--color-bluedark);
 }
 .rodape-box {
-  display: inline-flex;
+  display:flex;
   justify-content: space-between;
   align-items: center;
   padding: 4rem;
