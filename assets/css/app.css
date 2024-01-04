@@ -523,7 +523,7 @@ max-width:50%;
 
 @media screen and (max-width:842px) {
   .box-header {
-    max-width: 90%;
+    max-width: 100%;
   }
 
   .nav-bar ul {
