@@ -454,7 +454,6 @@ footer {
 .rodape-box-pg {
   background: var(--color-bluedark);
 }
-
 .rodape-box {
   display: flex;
   justify-content: space-between;
@@ -482,7 +481,7 @@ footer {
 
 .rodape i {
   display: inline-block;
-  margin-right: 0.8rem;
+  margin-left: 0.8rem;
   font-size: 3rem;
   color: var(--color-palha);
 }
