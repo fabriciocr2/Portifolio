@@ -150,7 +150,7 @@ h2 {
 }
 
 .inicio p {
-  margin-bottom: 3rem;
+  margin:0 0 3rem 0;
   width: 90%;
   line-height: 150%;
   font-size: 1.8rem;
