@@ -735,9 +735,6 @@ max-width:50%;
 }
 
 @media screen and (max-width:1574px) {
-  body{
- overflow-x:hidden;
-  }
   .sobre-box-pg {
     height: 100%;
   }
