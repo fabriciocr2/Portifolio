@@ -15,7 +15,7 @@ body {
   background-color: var(--color-palha);
   font-family: var(--font-Roboto);
   font-size: 1.6rem;
-  max-width: 100%;
+  width: 100%;
   margin: 0 auto;
   overflow-x: hidden;
 }
