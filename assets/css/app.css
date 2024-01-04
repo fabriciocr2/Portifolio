@@ -479,9 +479,9 @@ footer {
 }
 
 .rodape i {
-  display: inline-block;
+  display: flex;
   margin-right: 0.8rem;
-  font-size: 2.5rem;
+  font-size: 3rem;
   color: var(--color-palha);
 }
 
