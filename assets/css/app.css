@@ -455,8 +455,8 @@ footer {
   background: var(--color-bluedark);
 }
 .rodape-box {
-  display: flex;
-  justify-content: space-evenly;
+  display: inline-flex;
+  justify-content: space-between;
   align-items: center;
   padding: 4rem;
 
