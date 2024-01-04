@@ -290,7 +290,6 @@ ul {
 
 /*Inicio estilização projetos*/
 .projeto-box-pg {
-
   height: 100vh;
   padding-top: 4rem;
   box-shadow: 0 0 3px var(--color-gray);
@@ -317,7 +316,7 @@ ul {
 }
 
 .projetos {
-  width: 30%;
+  max-width: 30%;
   border-radius: 5px;
   padding: 1rem;
   box-shadow: 0 0 10px var(--color-bluedark);
