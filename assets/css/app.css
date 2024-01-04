@@ -459,7 +459,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   padding: 4rem;
-  border:1px solid red;
+
 }
 
 .rodape h2 {
@@ -481,9 +481,10 @@ footer {
 
 .rodape i {
   display: inline-block;
-  margin-left: 0.8rem;
+  margin-right: 0.8rem;
   font-size: 3rem;
   color: var(--color-palha);
+    border:1px solid red;
 }
 
 .rodape i:hover {
