@@ -449,14 +449,7 @@ footer {
   padding: 5rem;
 
 }
-.rodape{
-  display:flex;
-  flex-direction:column;
-  justify-content:space-between;
-  width:100%;
-  border:1px solid red;
-  
-}
+
 
 .rodape-box-pg {
   background: var(--color-bluedark);
@@ -467,6 +460,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   padding: 4rem;
+  border:1px solid red;
 }
 
 .rodape h2 {
