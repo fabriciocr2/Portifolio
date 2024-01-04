@@ -715,7 +715,7 @@ max-width:50%;
     align-items: center;
     margin: 0 auto;
     text-align: center;
-    max-width: 80%;
+    max-width: 100%;
   }
 
   .rodape {
@@ -735,6 +735,9 @@ max-width:50%;
 }
 
 @media screen and (max-width:1574px) {
+  body{
+ overflow-x:hidden;
+  }
   .sobre-box-pg {
     height: 100%;
   }
