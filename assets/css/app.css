@@ -127,7 +127,6 @@ h2 {
 .inicio {
   flex: 50%;
   padding: 1rem;
-  border:1px solid red;
 }
 
 .inicio img {
@@ -152,7 +151,7 @@ h2 {
 
 .inicio p {
   margin-bottom:3rem;
-  margin-left:0rem;
+  padding:1rem;
   width: 90%;
   line-height: 150%;
   font-size: 1.8rem;
